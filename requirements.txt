@@ -1,0 +1,2 @@
+pywhatkit
+pyautogui == 0.9.53
